@@ -220,4 +220,4 @@ def simulate_payment():
 
 # Cara Menjalankan: 
 # pip install fastapi uvicorn python-multipart
-# uvicorn app:app --host 0.0.0.0 --port 8000
+# uvicorn backend_web_dashboard:app --host 0.0.0.0 --port 8000
